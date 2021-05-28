@@ -1,5 +1,15 @@
 # pokedex-app
 
+## About
+```
+A Simple pokedex making use of PokeApi and Vue
+```
+
+## Project link
+```
+App link https://pokedex-app-tan.vercel.app/
+```
+
 ## Project setup
 ```
 yarn install
